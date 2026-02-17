@@ -1,0 +1,9 @@
+# macOS junk
+.DS_Store
+
+# Build artifacts
+*.dSYM
+rooster
+
+# Optional: VS Code settings
+.vscode/
