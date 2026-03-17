@@ -7,3 +7,7 @@ rooster
 
 # Optional: VS Code settings
 .vscode/
+.venv/
+
+rooster
+main
